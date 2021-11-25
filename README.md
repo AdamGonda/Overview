@@ -24,7 +24,7 @@ This is an overview of my open projects on Github, ordered from newest to oldest
 
 ### Migle
 
-**React + Redux + Firebase:** a collaborative agile project planner, I created this a long time ago. [Repo](https://github.com/AdamGonda/migle)
+**React + Redux + Firebase:** a collaborative agile project planner. [Repo](https://github.com/AdamGonda/migle)
 
 ### Memory game
 
