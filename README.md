@@ -1,7 +1,6 @@
 # Repo-overview
 
-This is an overview of my open projects on Github
-These are ordered from newest to oldest
+This is an overview of my open projects on Github ordered from newest to oldest
 
 ### Retro game API
 
