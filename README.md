@@ -20,7 +20,7 @@ This is an overview of my open projects on Github, ordered from newest to oldest
 
 ### The elevator
 
-**Python:** this was a whiteboarding exercise in the application process for Rollet. [Repo](https://github.com/AdamGonda/The-elevator)
+**Python:** this was a whiteboarding exercise in the application process at Rollet. [Repo](https://github.com/AdamGonda/The-elevator)
 
 ### Migle
 
