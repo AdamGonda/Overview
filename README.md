@@ -1,10 +1,10 @@
 # Repo overview
 
-This is an overview of my open projects on Github ordered from newest to oldest
+This is an overview of my open projects on Github ordered from newest to oldest.
 
 ### Retro game API
 
-**Node + Typescript:** app for helping people to learn frontend stuff in a fun way (in progress) [Repo](https://github.com/AdamGonda/retro-game-api-open)
+**Node + Typescript:** app for helping people to learn frontend stuff in a fun way (in progress). [Repo](https://github.com/AdamGonda/retro-game-api-open)
 
 ### Zoosh homework
 
@@ -12,12 +12,12 @@ This is an overview of my open projects on Github ordered from newest to oldest
 
 ### Console Runner
 
-**Node:** app to run simple apps in the terminal [Repo](https://github.com/AdamGonda/console-runner)
+**Node:** app to run simple apps in the terminal. [Repo](https://github.com/AdamGonda/console-runner)
 
 ### Rollet Atm
 
 **React + Flask + Postgres:** app simulating a workings of an ATM machine,
-it's kinda old from the beginning of my journey as a dev [Repo](https://github.com/AdamGonda/rollet-atm)
+it's kinda old from the beginning of my journey as a dev. [Repo](https://github.com/AdamGonda/rollet-atm)
 
 ### The elevator
 
@@ -29,11 +29,11 @@ it's kinda old from the beginning of my journey as a dev [Repo](https://github.c
 
 ### Memory game
 
-**JS:** memory game I created this a long time ago when I studied web stuff in Codecool [Repo](https://github.com/AdamGonda/memory-game)
+**JS:** memory game I created this a long time ago when I studied web stuff in Codecool. [Repo](https://github.com/AdamGonda/memory-game)
 
 ### JTerminal App
 
-**Java:** it's a small framework for creating terminal apps [Repo](https://github.com/AdamGonda/JTerminalApp)
+**Java:** it's a small framework for creating terminal apps. [Repo](https://github.com/AdamGonda/JTerminalApp)
 
 ### Dedicate
 
