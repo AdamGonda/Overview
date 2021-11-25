@@ -1,6 +1,6 @@
 # Overview
 
-My open Github projects, **ordered: from newest to oldest.**
+My open Github projects, **from newest to oldest.**
 
 ### Retro game API
 
