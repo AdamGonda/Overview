@@ -16,8 +16,7 @@ This is an overview of my open projects on Github, ordered from newest to oldest
 
 ### Rollet Atm
 
-**React + Flask + Postgres:** app simulating a workings of an ATM machine,
-it's kinda old from the beginning of my journey as a dev. [Repo](https://github.com/AdamGonda/rollet-atm)
+**React + Flask + Postgres:** app simulating the workings of an ATM machine. [Repo](https://github.com/AdamGonda/rollet-atm)
 
 ### The elevator
 
