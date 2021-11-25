@@ -28,7 +28,7 @@ This is an overview of my open projects on Github, ordered from newest to oldest
 
 ### Memory game
 
-**JS:** memory game I created this a long time ago when I studied web stuff in Codecool. [Repo](https://github.com/AdamGonda/memory-game)
+**JS:** a simple memory game I created a long time ago when I studied web stuff in Codecool. [Repo](https://github.com/AdamGonda/memory-game)
 
 ### JTerminal App
 
@@ -36,4 +36,4 @@ This is an overview of my open projects on Github, ordered from newest to oldest
 
 ### Dedicate
 
-**Python + Kivy:** it's liked to be a gamified math trainer. [Repo](https://github.com/AdamGonda/Dedicate)
+**Python + Kivy:** it's a gamified math trainer. [Repo](https://github.com/AdamGonda/Dedicate)
