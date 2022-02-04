@@ -2,6 +2,10 @@
 
 My open Github projects, **from newest to oldest.**
 
+## The secret project
+
+**Nuxt + MongoDB:** app to learn new tech where you can create and retrieve secrets if you know their hash [Repo](https://github.com/AdamGonda/the-secret-project)
+
 ### Retro game API
 
 **Node + Typescript + p5:** app for helping people to learn frontend stuff in a fun way (in progress). [Repo](https://github.com/AdamGonda/retro-game-api)
