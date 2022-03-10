@@ -8,7 +8,7 @@ My open Github projects, **from newest to oldest.**
 
 ### Retro game API
 
-**Node + Typescript + p5:** app for helping people to learn frontend stuff in a fun way (in progress). [Repo](https://github.com/AdamGonda/retro-game-api)
+**Node + Typescript + p5:** app for helping people to learn frontend stuff in a fun way. [Repo](https://github.com/AdamGonda/retro-game-api)
 
 ### Zoosh homework
 
