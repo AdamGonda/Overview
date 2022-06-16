@@ -16,7 +16,7 @@ My open Github projects, **from newest to oldest.**
 
 ### Loop
 
-**Node:** app to run simple games in the terminal. [Repo](https://github.com/AdamGonda/console-runner)
+**Node:** app to run simple games in the terminal. [Repo](https://github.com/AdamGonda/loop)
 
 ### Rollet Atm
 
