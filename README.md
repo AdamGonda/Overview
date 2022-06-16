@@ -14,9 +14,9 @@ My open Github projects, **from newest to oldest.**
 
 **React + Redux + Mui:** the task was to create an app to search for movies on IMDB. [Repo](https://github.com/AdamGonda/zoosh-homework)
 
-### Console Runner
+### Loop
 
-**Node:** app to run simple apps in the terminal. [Repo](https://github.com/AdamGonda/console-runner)
+**Node:** app to run simple games in the terminal. [Repo](https://github.com/AdamGonda/console-runner)
 
 ### Rollet Atm
 
